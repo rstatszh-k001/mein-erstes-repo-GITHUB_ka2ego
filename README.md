@@ -5,7 +5,6 @@ Das ist die Einleitung zur Nutzung meines ersten Repositories. Vielleicht wird e
 Wie kann man denn hier ein Bild einfügen?
 
 ```{r, echo=FALSE}
-# Define variable containing url
 ![Hier ist das Bild](https://s.w-x.co/util/image/w/de-wombat-gettyimages.jpg?crop=16:9&width=980&format=pjpg&auto=webp&quality=60)
 ```
 
